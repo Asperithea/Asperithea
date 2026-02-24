@@ -1,28 +1,33 @@
-### Привет, меня зовут Виталий! 👋 [Hi, I'm Vitaly! 👋]
+### Привет, меня зовут Asperithea! 👋
 
 ---
 
-### 🧑‍💻 Обо мне [About Me]
-
-Я **Full-Stack разработчик** (Software Engineer), специализирующийся на создании комплексных решений «под ключ» (end-to-end).  
-[I'm a **Full-Stack Developer** (Software Engineer) specializing in creating comprehensive end-to-end solutions.]
-
-- 🔥 Мой основной фокус — **высокопроизводительные системы и визуализация данных**. Я люблю создавать продукты, где красивая графика сочетается с мощной внутренней логикой.  
-[🔥 My main focus is on **high-performance systems and data visualization**. I enjoy creating products where beautiful graphics meet powerful backend logic.]
-
-- 🛠 Я работаю над проектами на всех уровнях: от нативного кода до пользовательского интерфейса в браузере.  
-[🛠 I work on projects at all levels: from native code to the user interface in the browser.]
-
-- 📊 Мне интересно строить мосты между сложными вычислениями и удобным интерфейсом, будь то десктопное приложение или веб-дашборд.  
-[📊 I'm interested in building bridges between complex computations and user-friendly interfaces, whether it's a desktop application or a web dashboard.]
+<div align="center">
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/-🇷🇺_Русский-282828?style=for-the-badge&color=blue" alt="Русский">
+  </a>
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/-🇬🇧_English-282828?style=for-the-badge" alt="English">
+  </a>
+</div>
 
 ---
 
-### 🚀 Стек технологий [Tech Stack]
+### 🧑‍💻 О себе
+
+Я **Full-Stack разработчик** (Software Engineer), специализирующийся на создании комплексных решений «под ключ» (end-to-end).
+
+- 🔥 Мой основной фокус — **высокопроизводительные системы и визуализация данных**. Я люблю создавать продукты, где красивая графика сочетается с мощной внутренней логикой.
+- 🛠 Я работаю над проектами на всех уровнях: от нативного кода до пользовательского интерфейса в браузере.
+- 📊 Мне интересно строить мосты между сложными вычислениями и удобным интерфейсом, будь то десктопное приложение или веб-дашборд.
+
+---
+
+### 🚀 Стек технологий
 
 **Full-Cycle Developer (Full Stack Software Engineer) with expertise in C++, Python, and JavaScript.**
 
-#### 🖥 Бэкенд & Высокопроизводительные системы [Backend & High-Performance]
+#### 🖥 Бэкенд & Высокопроизводительные системы
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -30,14 +35,14 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![IMGUI](https://img.shields.io/badge/IMGUI-00A98F?style=for-the-badge&logo=imgui&logoColor=white)
 
-#### 🗄 API & Базы данных [API & Databases]
+#### 🗄 API и Базы данных
 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🎨 Фронтенд & Визуализация [Frontend & Visualization]
+#### 🎨 Фронтенд и Визуализация
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -51,10 +56,9 @@
 
 ---
 
-### 📫 Как со мной связаться [How to reach me]
+### 📫 Как со мной связаться
 
-Я всегда открыт к интересным предложениям и новым знакомствам в IT-сообществе. Свяжитесь со мной любым удобным способом:  
-[I'm always open to interesting opportunities and new connections in the IT community. Reach me by any convenient method:]
+Я всегда открыт к интересным предложениям и новым знакомствам в IT-сообществе. Свяжитесь со мной любым удобным способом:
 
 [![Email](https://img.shields.io/badge/Email-lcofteal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcofteal@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Asperithea-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Asperithea)
@@ -62,12 +66,10 @@
 
 ---
 
-### 💡 Проекты, которыми я горжусь [Projects I'm proud of]
+### 💡 Проекты, которыми я горжусь
 
-*Скоро здесь появятся мои лучшие работы...* 🚧  
-[*My best works will appear here soon...* 🚧]
+*Скоро здесь появятся мои лучшие работы...* 🚧
 
 ---
 
-> 💡 *“Строю мосты между сложной логикой и красивым интерфейсом.”*  
-> 💡 *“Building bridges between complex logic and beautiful interfaces.”*
+> 💡 *“Строю мосты между сложной логикой и красивым интерфейсом.”*
