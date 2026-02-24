@@ -1,19 +1,13 @@
-### Hi, I'm Asperithea! 👋
-
----
-
 <div align="center">
   <a href="README.md">
+    <p>👇Если вам нужна русская версия👇</p>
     <img src="https://img.shields.io/badge/-🇷🇺_Русский-282828?style=for-the-badge" alt="Русский">
-  </a>
-  <a href="README.en.md">
-    <img src="https://img.shields.io/badge/-🇬🇧_English-282828?style=for-the-badge&color=blue" alt="English">
   </a>
 </div>
 
 ---
 
-### 🧑‍💻 About Me
+### Hi, I'm Vitaly! 👋
 
 I'm a **Full-Stack Developer** (Software Engineer) specializing in creating comprehensive end-to-end solutions.
 
