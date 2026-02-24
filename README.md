@@ -1,7 +1,7 @@
-### Привет, меня зовут Asperithea! 👋
+### Привет, меня зовут Виталий! 👋
 
 ---
-
+### 🌐 Язык / Language
 <div align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/-🇷🇺_Русский-282828?style=for-the-badge&color=blue" alt="Русский">
