@@ -1,6 +1,6 @@
 <div align="center">
+  <p>👇Если вам нужна русская версия👇</p>
   <a href="README.md">
-    <p>👇Если вам нужна русская версия👇</p>
     <img src="https://img.shields.io/badge/-🇷🇺_Русский-282828?style=for-the-badge" alt="Русский">
   </a>
 </div>
