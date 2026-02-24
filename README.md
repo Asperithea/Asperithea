@@ -56,7 +56,6 @@
 
 [![Email](https://img.shields.io/badge/Email-lcofteal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcofteal@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@Asperithea-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Asperithea)
-[![GitHub](https://img.shields.io/badge/GitHub-Asperithea-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asperithea)
 
 ---
 
