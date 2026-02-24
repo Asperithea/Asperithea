@@ -59,26 +59,15 @@
 
 ---
 
-### 📊 Статистика активности
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asperithea&theme=tokyonight&hide_border=true)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asperithea&theme=tokyo-night&hide_border=true)
-
----
-
-### 🏆 Достижения
-![trophy](https://github-profile-trophy.vercel.app/?username=Asperithea&theme=tokyonight&no-frame=true&row=2&column=4)
-
----
-
-### 🐍 Змейка коммитов
-![Snake animation](https://github.com/Asperithea/Asperithea/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 💡 Проекты, которыми я горжусь
 
 *Скоро здесь появятся мои лучшие работы...* 🚧
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asperithea&theme=tokyonight&hide_border=true)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asperithea&theme=tokyo-night&hide_border=true)
 
 ---
 
