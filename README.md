@@ -1,9 +1,7 @@
 <div align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Русский-красный?style=for-the-badge&logo=react&logoColor=white" alt="Русский">
-  </a>
+  <p>👇If you need the English version👇</p>
   <a href="README.en.md">
-    <img src="https://img.shields.io/badge/English-синий?style=for-the-badge&logo=react&logoColor=white" alt="English">
+    <img src="https://img.shields.io/badge/-🇬🇧_English-282828?style=for-the-badge" alt="English">
   </a>
 </div>
 
