@@ -65,4 +65,10 @@ I'm always open to interesting opportunities and new connections in the IT commu
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asperithea&theme=tokyonight&hide_border=true)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Asperithea&theme=tokyo-night&hide_border=true)
+
+---
+
 > 💡 *“Building bridges between complex logic and beautiful interfaces.”*
