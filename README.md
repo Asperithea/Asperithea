@@ -1,6 +1,5 @@
-
 <div align="center">
-  <p>If you need the English version: </p>
+  <p>👇If you need the English version👇</p>
   <a href="README.en.md">
     <img src="https://img.shields.io/badge/-🇬🇧_English-282828?style=for-the-badge" alt="English">
   </a>
